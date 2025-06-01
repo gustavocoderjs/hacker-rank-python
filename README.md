@@ -1,2 +1,2 @@
 # hacker-rank-python
-A repositorie for training Python exercises
+A repository for Python training exercises.
